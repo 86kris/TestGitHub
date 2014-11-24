@@ -1,4 +1,5 @@
 TestGitHub
 ==========
 
-My First git hub project
+It is a test project read me file that is created
+
